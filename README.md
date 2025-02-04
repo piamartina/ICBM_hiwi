@@ -45,3 +45,7 @@
 **detrend_allmissions**
 - take out diurnal warming from temperature data when working with the complete dataframe
 
+**residual_noise**
+- first try of finding noise in SML that is not found in bulk water
+- smoothing timeseries
+
